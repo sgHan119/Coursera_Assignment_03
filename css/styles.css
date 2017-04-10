@@ -1,0 +1,46 @@
+body {
+  font-size: 16px;
+  /*color: #fff;*/
+  background-color: #f5f5f5;
+  font-family: 'Oxygen', sans-serif;
+}
+
+/** HEADER **/
+#header-nav {
+  background-color: #3e4958;
+  border-radius: 0;
+  border: 0;
+}
+
+.navbar-header h1 {
+  padding-left: 10px;
+}
+
+#collapsable-nav {
+	background-color: #ffffff
+}
+
+#collapsable-nav li {
+	text-align: center;
+}
+
+.page-header h2 {
+	color: #3e4958 
+}
+
+#content1, #content2, #content3 {
+	background-color: #fff;
+	color: #3e4958
+	padding: 0px 15px 30px 15px;
+	margin-bottom: 30px;
+}
+
+#home-tiles h3 {
+	padding:  20px;
+	text-align: center;
+}
+
+
+/* END HEADER */
+
+/********** Large devices only **********/
