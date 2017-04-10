@@ -12,6 +12,10 @@ body {
   border: 0;
 }
 
+.navbar-header {
+	height: 100px;
+}
+
 .navbar-header h1 {
   padding-left: 10px;
 }
